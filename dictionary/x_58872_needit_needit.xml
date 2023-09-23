@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0769434897213110f730f97e6253afbb" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="What needed" max_length="40" name="u_need" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="other" max_length="40" name="u_other" type="string"/>
+    </element>
+</database>
